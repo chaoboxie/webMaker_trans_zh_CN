@@ -1,0 +1,8 @@
+{
+    "You found a loose thread!": "你发现了一个不精确的线程！",
+    "errorMessage": "请尝试一下<a href='https://webmaker.org/{{localeInfo.lang}}/search'>搜索</a>或浏览我们<a href='https://webmaker.org/{{localeInfo.lang}}'>主页</a>。",
+    "Remix": "重混",
+    "Made with": "制作中伴随了",
+    "Details": "细节",
+    "errorTitle": "哎呀，你已经找到了一个"
+}
